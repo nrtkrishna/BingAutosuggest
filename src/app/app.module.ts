@@ -1,6 +1,6 @@
 
-// <reference  path="../../node_modules\bingmaps\types\MicrosoftMaps\Modules\AutoSuggest.d.ts"/>
-/// <reference path="../../node_modules/bingmaps/types/MicrosoftMaps/Microsoft.Maps.All.d.ts" />
+/// <reference  path="../../node_modules/bingmaps/types/MicrosoftMaps/Modules/AutoSuggest.d.ts"/>
+/// <reference path="../../node_modules/bingmaps/types/MicrosoftMaps/Microsoft.Maps.d.ts" />
 // <reference  path="../../node_modules\bingmaps\types\MicrosoftMaps\Modules\SpatialMath.d.ts"/>
 
 import { BrowserModule } from '@angular/platform-browser';
